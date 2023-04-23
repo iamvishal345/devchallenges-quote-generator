@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://dev-challenges-btn.netlify.app/">
+    <a href="https://iamvishal345.github.io/devchallenges-quote-generator/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/iamvishal345/devchallenges-btn">
+    <a href="https://github.com/iamvishal345/devchallenges-quote-generator">
       Solution
     </a>
     <span> | </span>
