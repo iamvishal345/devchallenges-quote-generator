@@ -1,4 +1,4 @@
-<h1 align="center">Button and Input component</h1>
+<h1 align="center">Random Quote Generator</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -62,6 +62,7 @@ $ git clone https://github.com/iamvishal345/devchallenges-random-quote.git
 ## Acknowledgements
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [Quotable](quotable.io)
 
 ## Contact
 
