@@ -62,7 +62,7 @@ $ git clone https://github.com/iamvishal345/devchallenges-random-quote.git
 ## Acknowledgements
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Quotable](quotable.io)
+- [Quotable](https://www.quotable.io)
 
 ## Contact
 
